@@ -30,7 +30,3 @@ O sistema implementa um fluxo completo de gerenciamento de tarefas:
 ### Pré-requisitos
 * Ter o **Python** instalado na sua máquina.
 
-### 1. Clonar o repositório
-```bash
-git clone [https://github.com/SEU_USUARIO/nome-do-repositorio.git](https://github.com/SEU_USUARIO/nome-do-repositorio.git)
-cd nome-do-repositorio
